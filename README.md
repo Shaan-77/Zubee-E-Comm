@@ -1,5 +1,5 @@
 
-(<img width="1280" height="847" alt="Zubee-E-Comm" src="https://github.com/user-attachments/assets/a3ba79f3-36ec-4e52-add5-7a1b9e349217" />)
+<img width="1280" height="847" color="white" alt="Zubee-E-Comm" src="https://github.com/user-attachments/assets/a3ba79f3-36ec-4e52-add5-7a1b9e349217" />
 
 ## 🛒 Zubee – MERN Stack E-commerce Website
 
