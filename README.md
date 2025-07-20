@@ -1,6 +1,4 @@
 
-<img width="1280" height="847" color="white" alt="Zubee-E-Comm" src="https://github.com/user-attachments/assets/a3ba79f3-36ec-4e52-add5-7a1b9e349217" />
-
 ## 🛒 Zubee – MERN Stack E-commerce Website
 
 Zubee is a full-featured, full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Designed to replicate the core functionality of a modern online store, Zubee offers a seamless user experience from browsing products to completing secure payments.
@@ -41,8 +39,25 @@ https://zubee-e-comm-1.onrender.com
   
 ## Screenshots
 
-**Landing Page**
+# Landing Page
+
 <img width="1898" height="825" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/7ca61b33-e54e-423d-b40c-87e5d3d50c2d" />
+
+# Men's Colleciton Page
+
+<img width="1892" height="811" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/ee3c5377-5b37-46a7-8e31-32a2cab0f5ed" />
+
+# Women's Collection Page
+
+<img width="1894" height="829" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/f3985376-fa31-4133-8d08-671c5da18ce6" />
+
+# Checkout Page 
+
+<img width="1889" height="841" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/3dc333c1-d967-4fca-8b6c-09d13883643a" />
+
+# Login/Signup Page
+
+<img width="1894" height="832" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/d9a5d127-8c17-453f-9c08-ecf2862c4f9a" />
 
 
 ## Run Locally
@@ -81,6 +96,8 @@ Start the server
 ```bash
   npm run dev
 ```
+
+
 ## Badges
 
 
