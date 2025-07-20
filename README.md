@@ -1,5 +1,5 @@
 
-## 🛒 Zubee – MERN Stack E-commerce Website
+# 🛒 Zubee – MERN Stack E-commerce Website
 
 Zubee is a full-featured, full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js and TailwindCSS). Designed to replicate the core functionality of a modern online store, Zubee offers a seamless user experience from browsing products to completing secure payments.
 
