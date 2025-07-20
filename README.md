@@ -37,9 +37,9 @@ https://zubee-e-comm-1.onrender.com
 * [paypal Developer](https://developer.paypal.com/home/)
 
   
-## Screenshots
+# Screenshots
 
-# Landing Page
+### Landing Page
 
 <img width="1898" height="825" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/7ca61b33-e54e-423d-b40c-87e5d3d50c2d" />
 
